@@ -1,2 +1,2 @@
 # Curriculum
-Curriculum 자료공유
+Curriculum 자료정리 및 공유
